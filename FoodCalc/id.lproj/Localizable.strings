@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  NutriCal
+
+  Created by Muhammad Raihan on 14/06/20.
+  Copyright © 2020 Prince Alvin Yusuf. All rights reserved.
+*/
+"foodstat_title" = "Statistik";
+"foodstat_calories" = "Kalori";
+"foodstat_fats" = "Lemak";
+"foodstat_proteins" = "Proteins";
+"foodstat_carbs" = "Karbohidrat";
+"foodstat_fooddiary" = "Diary Makanan";
+"foodstat_mybreakfast" = "Makan Pagi";
+"foodstat_mylunch" = "Makan Siang";
+"foodstat_mydinner" = "Makan Malam";
+
+"foodlist_title1" = "Makan Pagi";
+"foodlist_title2" = "Makan Siang";
+"foodlist_title3" = "Makan Malam";
+"foodlist_subtitle" = "Daftar Makanan";
+
+"foodadd_title" = "Nutrisiku";
+"foodadd_savebutton" = "Simpan";
+
+"about_title" = "tentang";
+"about_description" = "NutriCal dikembangkan untuk menjadi sebuah platform atau orang untuk mengetahui makanan dan kandungan nutrisi mereka di dalam makanan. Ini membantu Anda mengidentifikasi makanan apa pun dan memberikan informasi tentang hal itu dengan fitur Foodpedia. Ini membantu Anda untuk mengeksplorasi kandungan nutrisi dan merangkum asupan nutrisi harian Anda.";
+"about_developer" = "Tim Pengembang";

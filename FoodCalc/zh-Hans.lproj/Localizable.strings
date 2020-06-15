@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  NutriCal
+
+  Created by Muhammad Raihan on 14/06/20.
+  Copyright © 2020 Prince Alvin Yusuf. All rights reserved.
+*/
+"foodstat_title" = "统计资料";
+"foodstat_calories" = "卡路里";
+"foodstat_fats" = "脂肪";
+"foodstat_proteins" = "蛋白质";
+"foodstat_carbs" = "碳水化合物";
+"foodstat_fooddiary" = "食物日记";
+"foodstat_mybreakfast" = "我的早餐";
+"foodstat_mylunch" = "我的午餐";
+"foodstat_mydinner" = "我的晚餐";
+
+"foodlist_title1" = "早餐";
+"foodlist_title2" = "午餐";
+"foodlist_title3" = "晚餐";
+"foodlist_subtitle" = "我的食物清单";
+
+"foodadd_title" = "我的营养";
+"foodadd_savebutton" = "救";
+
+"about_title" = "关于";
+"about_description" = "NutriCal被开发为一个平台或人们知道他们的食物和食物中营养成分的平台。 它可以帮助您识别任何食物，并通过Foodpedia功能提供有关食物的信息。 它可以帮助您探索营养素含量并总结您的每日营养素摄入量";
+"about_developer" = "开发团队";

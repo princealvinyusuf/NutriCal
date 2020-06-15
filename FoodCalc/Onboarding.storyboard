@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="2bX-Dc-PU8">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Intro View Controller-->
+        <scene sceneID="1NG-bf-Ofw">
+            <objects>
+                <viewController storyboardIdentifier="OnboardingScene" id="2bX-Dc-PU8" customClass="IntroViewController" customModule="NutriCal" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Tan-0Q-jsI">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pum-5b-tLL">
+                                <rect key="frame" x="359" y="816" width="39" height="36"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                <state key="normal" title="Skip">
+                                    <color key="titleColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
+                                </state>
+                                <connections>
+                                    <action selector="skipButtonTapped:" destination="2bX-Dc-PU8" eventType="touchUpInside" id="6Q9-IC-Oaq"/>
+                                    <segue destination="SZh-Mh-V6K" kind="presentation" identifier="gotomainmenu" modalPresentationStyle="overFullScreen" id="6kz-Ep-d7p"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="tQ7-TQ-Y5m" firstAttribute="bottom" secondItem="pum-5b-tLL" secondAttribute="bottom" constant="10" id="2AF-8X-PLI"/>
+                            <constraint firstItem="tQ7-TQ-Y5m" firstAttribute="trailing" secondItem="pum-5b-tLL" secondAttribute="trailing" constant="16" id="Cju-mz-VJ2"/>
+                            <constraint firstItem="pum-5b-tLL" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="Tan-0Q-jsI" secondAttribute="leading" constant="20" symbolic="YES" id="cdI-Oo-Fcg"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="tQ7-TQ-Y5m"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="2f4-t5-oz0"/>
+                    <connections>
+                        <outlet property="skipButton" destination="pum-5b-tLL" id="6iH-LV-Jwt"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="tKW-7i-zgx" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1859" y="116"/>
+        </scene>
+        <!--foodpedia-->
+        <scene sceneID="SkU-Gq-Wk4">
+            <objects>
+                <viewControllerPlaceholder storyboardName="Main" referencedIdentifier="foodpedia" id="SZh-Mh-V6K" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="JuD-dW-NJy"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="19i-eq-NsP" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-1084" y="222"/>
+        </scene>
+    </scenes>
+</document>

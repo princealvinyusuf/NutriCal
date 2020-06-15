@@ -1,0 +1,135 @@
+
+/* Class = "UILabel"; text = "Fats"; ObjectID = "1Kq-H6-tDd"; */
+"1Kq-H6-tDd.text" = "Fats";
+
+/* Class = "UINavigationItem"; title = "My Nutrition"; ObjectID = "2QY-Vt-IqS"; */
+"2QY-Vt-IqS.title" = "My Nutrition";
+
+/* Class = "UILabel"; text = "NutriCal"; ObjectID = "2Y4-Ce-6kj"; */
+"2Y4-Ce-6kj.text" = "NutriCal";
+
+/* Class = "UILabel"; text = "M. Raihan Mahardhika"; ObjectID = "2yr-oO-ixW"; */
+"2yr-oO-ixW.text" = "M. Raihan Mahardhika";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "3N3-jn-z8J"; */
+"3N3-jn-z8J.text" = "0";
+
+/* Class = "UITabBarItem"; title = "Nutricount"; ObjectID = "3Sc-9z-5aq"; */
+"3Sc-9z-5aq.title" = "Nutricount";
+
+/* Class = "UIButton"; normalTitle = "Date"; ObjectID = "6F0-od-r5B"; */
+"6F0-od-r5B.normalTitle" = "Date";
+
+/* Class = "UIViewController"; title = "Supported Food"; ObjectID = "AUJ-mq-Y2F"; */
+"AUJ-mq-Y2F.title" = "Supported Food";
+
+/* Class = "UILabel"; text = "Food Diary"; ObjectID = "D7u-Lv-Yoj"; */
+"D7u-Lv-Yoj.text" = "Food Diary";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "EcV-ag-95W"; */
+"EcV-ag-95W.text" = "0";
+
+/* Class = "UINavigationItem"; title = "Stats"; ObjectID = "FtB-1L-0yD"; */
+"FtB-1L-0yD.title" = "Stats";
+
+/* Class = "UIViewController"; title = "About"; ObjectID = "I87-us-wPF"; */
+"I87-us-wPF.title" = "关于";
+
+/* Class = "UIButton"; normalTitle = " My Lunch"; ObjectID = "IJT-CS-0VW"; */
+"IJT-CS-0VW.normalTitle" = " My Lunch";
+
+/* Class = "UILabel"; text = "Proteins"; ObjectID = "ImB-1r-HjT"; */
+"ImB-1r-HjT.text" = "Proteins";
+
+/* Class = "UILabel"; text = "Carbs"; ObjectID = "Jox-8k-O30"; */
+"Jox-8k-O30.text" = "Carbs";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "LIC-qL-Ksm"; */
+"LIC-qL-Ksm.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = " My Dinner"; ObjectID = "Mzp-q1-0io"; */
+"Mzp-q1-0io.normalTitle" = " My Dinner";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "O7f-gK-aEC"; */
+"O7f-gK-aEC.text" = "0";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "R4B-Lf-kwC"; */
+"R4B-Lf-kwC.title" = "Save";
+
+/* Class = "UITextView"; text = "rehan ganteng"; ObjectID = "UUB-Ib-MdJ"; */
+"UUB-Ib-MdJ.text" = "rehan ganteng";
+
+/* Class = "UILabel"; text = "List of Supported Foods"; ObjectID = "VKb-Gn-vqk"; */
+"VKb-Gn-vqk.text" = "支持食物清单";
+
+/* Class = "UIBarButtonItem"; title = "Information About Apps"; ObjectID = "YgM-4G-mj0"; */
+"YgM-4G-mj0.title" = "Information About Apps";
+
+/* Class = "UILabel"; text = "Edrick Lim"; ObjectID = "Ygz-ii-E3w"; */
+"Ygz-ii-E3w.text" = "Edrick Lim";
+
+/* Class = "UIBarButtonItem"; title = "plus"; ObjectID = "YpC-JG-fuK"; */
+"YpC-JG-fuK.title" = "plus";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "dam-Au-D0k"; */
+"dam-Au-D0k.text" = "0";
+
+/* Class = "UITextView"; text = "NutriCal is developed to be a platform or people to know their foods and nutrients content inside the foods. It helps you identify any food and provide information about it with the Foodpedia feature. It helps you to explore the nutrients content and summarize your daily nutrients intake."; ObjectID = "dnZ-yv-S3e"; */
+"dnZ-yv-S3e.text" = "NutriCal is developed to be a platform or people to know their foods and nutrients content inside the foods. It helps you identify any food and provide information about it with the Foodpedia feature. It helps you to explore the nutrients content and summarize your daily nutrients intake.";
+
+/* Class = "UILabel"; text = "Pick Your Date"; ObjectID = "eOC-Ri-Jqr"; */
+"eOC-Ri-Jqr.text" = "Pick Your Date";
+
+/* Class = "UILabel"; text = "My Food List"; ObjectID = "fVn-xC-coU"; */
+"fVn-xC-coU.text" = "My Food List";
+
+/* Class = "UILabel"; text = "Developer Team"; ObjectID = "gGP-17-RWG"; */
+"gGP-17-RWG.text" = "Developer Team";
+
+/* Class = "UINavigationItem"; title = "Foodpedia"; ObjectID = "h5g-Jx-5Au"; */
+"h5g-Jx-5Au.title" = "Foodpedia";
+
+/* Class = "UINavigationItem"; title = "Supported Food"; ObjectID = "jfR-3w-UiQ"; */
+"jfR-3w-UiQ.title" = "支持食品";
+
+/* Class = "UIButton"; normalTitle = " My Breakfast"; ObjectID = "jkO-R0-fnJ"; */
+"jkO-R0-fnJ.normalTitle" = " My Breakfast";
+
+/* Class = "UIButton"; normalTitle = "Confirm Date"; ObjectID = "kjd-6j-9AC"; */
+"kjd-6j-9AC.normalTitle" = "Confirm Date";
+
+/* Class = "UILabel"; text = "Pradipta Eva Trudiyanti"; ObjectID = "ltJ-u4-krc"; */
+"ltJ-u4-krc.text" = "Pradipta Eva Trudiyanti";
+
+/* Class = "UIBarButtonItem"; title = "Supported Food"; ObjectID = "mh5-WH-cfV"; */
+"mh5-WH-cfV.title" = "Supported Food";
+
+/* Class = "UILabel"; text = "Calories"; ObjectID = "qge-oD-1nA"; */
+"qge-oD-1nA.text" = "Calories";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "r4e-j9-awa"; */
+"r4e-j9-awa.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "rBv-ZL-e26"; */
+"rBv-ZL-e26.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "Breakfast"; ObjectID = "u6T-oX-x9P"; */
+"u6T-oX-x9P.title" = "Breakfast";
+
+/* Class = "UILabel"; text = "Andri Wijaya"; ObjectID = "v73-TA-caU"; */
+"v73-TA-caU.text" = "Andri Wijaya";
+
+/* Class = "UIBarButtonItem"; title = "Camera"; ObjectID = "wMS-xv-Jlk"; */
+"wMS-xv-Jlk.title" = "Camera";
+
+/* Class = "UILabel"; text = "Rian Heri Santoso"; ObjectID = "x7s-Uq-gD5"; */
+"x7s-Uq-gD5.text" = "Rian Heri Santoso";
+
+/* Class = "UILabel"; text = "Prince Alvin Yusuf"; ObjectID = "xTe-Ml-0Xi"; */
+"xTe-Ml-0Xi.text" = "Prince Alvin Yusuf";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "yWN-7v-YZ4"; */
+"yWN-7v-YZ4.title" = "关于";
+
+/* Class = "UITabBarItem"; title = "Foodpedia"; ObjectID = "zfE-z3-hc6"; */
+"zfE-z3-hc6.title" = "Foodpedia";

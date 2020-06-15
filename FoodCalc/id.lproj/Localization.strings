@@ -1,0 +1,24 @@
+/* 
+  Localization.strings
+  NutriCal
+
+  Created by Muhammad Raihan on 13/06/20.
+  Copyright © 2020 Prince Alvin Yusuf. All rights reserved.
+*/
+"foodstat_title" = "Statistik";
+"foodstat_calories" = "Kalori";
+"foodstat_fats" = "Lemak";
+"foodstat_proteins" = "Proteins";
+"foodstat_carbs" = "Karbohidrat";
+"foodstat_fooddiary" = "Diary Makanan";
+"foodstat_mybreakfast" = "Makan Pagi";
+"foodstat_Lunch" = "Makan Siang";
+"foodstat_Dinner" = "Makan Malam";
+
+"foodlist_title1" = "Makan Pagi";
+"foodlist_title2" = "Makan Siang";
+"foodlist_title2" = "Makan Malam";
+"foodlist_subtitle" = "Daftar Makanan";
+
+"foodadd_title" = "Nutrisiku";
+"foodadd_savebutton" = "Simpan";

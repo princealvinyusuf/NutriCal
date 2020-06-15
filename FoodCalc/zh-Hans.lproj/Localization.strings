@@ -1,0 +1,24 @@
+/* 
+  Localization.strings
+  NutriCal
+
+  Created by Muhammad Raihan on 13/06/20.
+  Copyright © 2020 Prince Alvin Yusuf. All rights reserved.
+*/
+"foodstat_title" = "统计资料";
+"foodstat_calories " = "卡路里";
+"foodstat_fats" = "脂肪";
+"foodstat_proteins" = "蛋白质";
+"foodstat_carbs" = "碳水化合物";
+"foodstat_fooddiary" = "食物日记";
+"foodstat_mybreakfast" = "我的早餐";
+"foodstat_Lunch" = "我的午餐";
+"foodstat_Dinner" = "我的晚餐";
+
+"foodlist_title1" = "早餐";;
+"foodlist_title2" = "午餐";
+"foodlist_title2" = "晚餐";
+"foodlist_subtitle" = "我的食物清单";
+
+"foodadd_title" = "我的营养";
+"foodadd_savebutton" = "救";

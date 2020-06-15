@@ -1,0 +1,24 @@
+/* 
+  Localization.strings
+  NutriCal
+
+  Created by Muhammad Raihan on 13/06/20.
+  Copyright © 2020 Prince Alvin Yusuf. All rights reserved.
+*/
+"foodstat_title" = "Stats";
+"foodstat_calories" = "Calories";
+"foodstat_fats" = "Fats";
+"foodstat_proteins" = "Proteins";
+"foodstat_carbs" = "Carbs";
+"foodstat_fooddiary" = "Food Diary";
+"foodstat_mybreakfast" = "My Breakfast";
+"foodstat_Lunch" = "My Lunch";
+"foodstat_Dinner" = "My Dinner";
+
+"foodlist_title1" = "Breakfast";
+"foodlist_title2" = "Lunch";
+"foodlist_title2" = "Dinner";
+"foodlist_subtitle" = "My Food List";
+
+"foodadd_title" = "My Nutrition";
+"foodadd_savebutton" = "Save";

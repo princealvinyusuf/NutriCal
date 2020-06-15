@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  NutriCal
+
+  Created by Muhammad Raihan on 14/06/20.
+  Copyright © 2020 Prince Alvin Yusuf. All rights reserved.
+*/
+"foodstat_title" = "Stats";
+"foodstat_calories" = "Calories";
+"foodstat_fats" = "Fats";
+"foodstat_proteins" = "Proteins";
+"foodstat_carbs" = "Carbs";
+"foodstat_fooddiary" = "Food Diary";
+"foodstat_mybreakfast" = "My Breakfast";
+"foodstat_mylunch" = "My Lunch";
+"foodstat_mydinner" = "My Dinner";
+
+"foodlist_title1" = "Breakfast";
+"foodlist_title2" = "Lunch";
+"foodlist_title3" = "Dinner";
+"foodlist_subtitle" = "My Food List";
+
+"foodadd_title" = "My Nutrition";
+"foodadd_savebutton" = "Save";
+
+"about_title" = "About";
+"about_description" = "NutriCal is developed to be a platform or people to know their foods and nutrients content inside the foods. It helps you identify any food and provide information about it with the Foodpedia feature. It helps you to explore the nutrients content and summarize your daily nutrients intake.";
+"about_developer" = "Developer Team";
